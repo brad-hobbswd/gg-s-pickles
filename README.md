@@ -8,7 +8,7 @@ Fresh flavor, homemade goodness, and small batch crunch packed into every jar.
 
 Visit the website:
 
-https://brad-hobbwd.github.io/gg-s-pickles/
+https://brad-hobbswd.github.io/gg-s-pickles/
 
 ## Features
 
